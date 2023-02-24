@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# PHARMAEASY CLONE (Individual project)
+Deployed Link:https://glittering-cat-4a0e89.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description:- 
+Pharmaeasy is a website selling wellness products in the United States of America. It was a group project. Our task was to clone the website.</br>
+Features :
+<ul>
 
-## Available Scripts
+<li> Sign in/Sign up pages </li>
+<li> Cart page </li>
+<li>Checkout Page</li>
+<li> Dynamic  </li>
+<li> Product pages</li>
+<li>Admin Page</li>
+</ul></br>
 
-In the project directory, you can run:
+TECH-STACK:
+<ul>
+<li> HTML </li>
+<li> CSS </li>
+<li> JavaScript </li>
+<li>React js</li>
+<li>Chakra UI</li>
+</ul>
+A individual project built over a period of 5 days.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Home Page
+![Home Page Screenshot](![Uploading Screenshot (265).png…](![Screenshot (265)](https://user-images.githubusercontent.com/107462155/214129096-6f01300a-99be-45a7-bb25-d870a684340f.png)
+)
+)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Individual Product Page
+![Product Page Screenshot](![Screenshot (266)](https://user-images.githubusercontent.com/107462155/214128974-451d8cfc-f201-4e58-9e7f-60f564428fff.png)
+)
 
-### `npm test`
+## Login Page
+![Login Page Screenshot](![Screenshot (270)](https://user-images.githubusercontent.com/107462155/214129523-29c5f613-72bf-4f15-b7ca-be008b737a67.png)
+)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Cart Page
+![Admin Page Screenshot](![Screenshot (267)](https://user-images.githubusercontent.com/107462155/214129749-762928f3-e1a4-4807-b696-2650a1bb4c52.png)
+)
 
-### `npm run build`
+## Checkout Page
+![Cart Screenshot](![Screenshot (269)](https://user-images.githubusercontent.com/107462155/214129969-a37313c0-ef43-4712-a2aa-0566c9e7a2d7.png)
+)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Darkmode
+![Cart Screenshot](![Screenshot (269)](![Screenshot (272)](https://user-images.githubusercontent.com/107462155/214130113-bd38a00c-c503-44bb-bc1d-b9a3923e0f82.png)
+)
+)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
